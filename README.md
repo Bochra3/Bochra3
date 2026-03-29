@@ -14,7 +14,7 @@
 
 **who am I?**
 
-3rd year Business Analytics student who decided that most student projects feel like homework — so I like to build something that feels like a real job instead, when I have time 🙂‍↕️. I like asking *why* the numbers look the way they do, not just reporting them.
+3rd year Business Analytics student who decided that most student projects feel like homework — so I like to build something that feels like a real job instead, when I have time 🥲. I like asking *why* the numbers look the way they do, not just reporting them.
 
 Also really into anime and cats 🌸
 
