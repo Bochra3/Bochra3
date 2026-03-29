@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://avatars.githubusercontent.com/u/177404779?v=4" width="100px" style="border-radius: 50%"/>
+  <img src="avatar.jpg" width="100px" style="border-radius: 50%"/>
 
-  ### hi, I'm Bochra 👓
+  ### Hi, I'm Bochra 🐱
   *data analyst in the making · TBS student · Tunisia*
 
   [![LinkedIn](https://img.shields.io/badge/-bochra--messaoud-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bochra-messaoud)
