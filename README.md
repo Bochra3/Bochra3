@@ -2,7 +2,7 @@
 
   <img src="avatar.jpg" width="100px" style="border-radius: 50%"/>
 
-  ### Hi, I'm Bochra 🐱
+  ### Hi, I'm Bochra 🦭
   *data analyst in the making · TBS student · Tunisia*
 
   [![LinkedIn](https://img.shields.io/badge/-bochra--messaoud-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bochra-messaoud)
@@ -16,7 +16,7 @@
 
 3rd year Business Analytics student who decided that most student projects feel like homework — so I like to build something that feels like a real job instead, when I have time 🥲. I like asking *why* the numbers look the way they do, not just reporting them.
 
-Also really into anime and cats 🌸
+Also really into anime and animals 🌸
 
 ---
 
