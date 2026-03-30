@@ -24,7 +24,7 @@ Also really into anime and animals 🌸
 
 🔍 The last project is my [advertising funnel analysis](https://github.com/Bochra3/advertising-funnel-analysis) — an end-to-end project covering database design, SQL, Power BI dashboards and a full insights report. 
 
-📚 deepening my Python skills & looking for a **data analyst internship** (remote or on-site, open to everything)
+📚 deepening my skills & looking for a **data analyst opportunities** (remote or on-site, open to everything)
 
 ---
 
