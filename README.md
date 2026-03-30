@@ -5,9 +5,6 @@
   ### Hi, I'm Bochra 🦭
   *data analyst in the making · TBS student · Tunisia*
 
-  [![LinkedIn](https://img.shields.io/badge/-bochra--messaoud-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bochra-messaoud)
-  [![Email](https://img.shields.io/badge/-say%20hi!-EA4335?style=flat&logo=gmail&logoColor=white)](bochra.messaoud@gmail.com)
-
 </div>
 
 ---
@@ -37,7 +34,7 @@ Also really into anime and animals 🌸
 
 ---
 
-**come say hi**
+**say hi !**
 
 I'm always happy to connect — whether it's about data, internships, or anime recommendations 🫶
 
