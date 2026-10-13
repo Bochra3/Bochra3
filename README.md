@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="avatar.png" width="120px"/>
+   <img src="avatar.jpg" width="100px" style="border-radius: 50%"/>
 
   ## Hi, I'm Bochra 👋
 
