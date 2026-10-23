@@ -6,7 +6,7 @@
 
 </div>
 
-Final-year Business Analytics student at Tunis Business School, looking for a **final-year internship (PFE) in data analytics**.
+Final-year Business Analytics student at Tunis Business School, looking for a **final-year internship (PFE) in data analytics or in machine learning** 
 
 I like asking *why* the numbers look the way they do, not just reporting them. Most student projects feel like homework, so I try to build ones that feel like a real job instead.
 
